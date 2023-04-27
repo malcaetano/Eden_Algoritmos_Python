@@ -5,10 +5,10 @@ import os
 os.environ["PROJ_LIB"] = "C:\\Users\\Dell\\Anaconda3\\Library\\share"; #fixr
 from mpl_toolkits.basemap import Basemap
 
-consumer_key = 'MEbEz5ewLzf0lOqg74AdY0GHB'
-consumer_secret = 'K2QziIjFVVrl9omjAkno4HXyeC8uEDvvhw4WH9ZOzWKwFMo3QJ'
-access_token = '149650363-30wY3uNi340toTtqzO8gFaV5RGL7khOn07t6Q9kh'
-access_token_secret = 'zH9RvXiSuQSN5Igrenw11Liyh1mpsekDl0mb5No8Lsv4D'
+consumer_key = 'coloque seu codigo aqui'
+consumer_secret = 'coloque seu codigo aqui'
+access_token = 'coloque seu codigo aqui'
+access_token_secret = 'coloque seu codigo aqui'
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
