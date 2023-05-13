@@ -26,10 +26,10 @@ from deep_translator import GoogleTranslator
 from unidecode import unidecode
 import re
 
-consumer_key = 'coloque seu codigo aqui'
-consumer_secret = 'coloque seu codigo aqui'
-access_token = 'coloque seu codigo aqui'
-access_token_secret = 'coloque seu codigo aqui'
+consumer_key='pp9Hb1ZwWVNE4K0u9ywYVinlM'
+consumer_secret ='aGVHIXFOBU8vHSxKaWew5Gp64WEvzJhqNRgbMFzv9lxsvIKotW'
+access_token ='149650363-FNmr7AvPYrjXtx1TOIzeBq74XMLeZ37c9cVGqSYA'
+access_token_secret  ='9q4qQwLAVKolbuRAA1AjiRMnsREz0Y76MW8ZfWvx11cGS'
 
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
